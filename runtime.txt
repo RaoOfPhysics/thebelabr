@@ -1,0 +1,2 @@
+# Use with latest "fixed" version of Rocker
+r-3.5.3-2019-04-25
